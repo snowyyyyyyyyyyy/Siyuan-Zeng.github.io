@@ -30,11 +30,12 @@ author:
   employer         : "East China Normal University"
   uri              : # URL
   email            : "10225102416@stu.ecnu.edu.cn" 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=DJLdRvkAAAAJ"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=DJLdRvkAAAAJ"
+
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
